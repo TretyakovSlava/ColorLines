@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>assets/images/circles/blue.svg</file>
+        <file>assets/fonts/Perfograma.otf</file>
+        <file>assets/images/circles/empty.svg</file>
+        <file>assets/images/circles/green.svg</file>
+        <file>assets/images/circles/yellow.svg</file>
+        <file>assets/images/circles/brown.svg</file>
+    </qresource>
+</RCC>
